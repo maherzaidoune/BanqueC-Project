@@ -79,6 +79,9 @@ user name and password to use on testing :
 
 **user maher** ||
 **pass 12346**
+
+when you add a new customer , the ID is automatically generated and copied to BanqueC-Project/Banque/info.txt 
+use that id to access to the account later
         
         
 [Download it from here](https://github.com/maherzaidoune/BanqueC-Project/blob/master/Banque.exe)
